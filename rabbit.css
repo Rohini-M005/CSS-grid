@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(10, 10, 67);
+    border: 5px double beige;
+    margin: 0;
+}
+
+.child{
+    border: 2px solid;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-rows:1fr 1fr;
+    gap:10px;
+   margin: 10px;
+}
+   
+
+
+.second-row{
+    /*display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-rows:100px  ;
+    gap:10px;*/
+}
+
+img{
+    height: 100%;
+    width:100%;
+    object-fit:cover;
+
+}
+
+h4,a{
+    color: rgb(235, 210, 180);
+}

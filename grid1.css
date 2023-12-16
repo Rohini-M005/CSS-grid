@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(8, 8, 66);
+    border: 2px double beige;
+    margin: 0;
+}
+
+body header span{
+    color: bisque;
+}
+
+h1{
+    color: blanchedalmond;
+}
+
+img{
+    height: 100en;
+    
+}
